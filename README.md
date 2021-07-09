@@ -1,5 +1,5 @@
 # EE200-Design-Tools-Learning-LabVIEW-
-Projects build with LabVIEW and C to build state machines.
+Projects built with LabVIEW and C to build State Machines.
 
 ## Goal
 To build a Finite State Machine where multicolor LEDs glow with different patterns depending on the buttons pressed by the user.
